@@ -1,7 +1,3 @@
-const expect = require("expect"); 
-
- 
-
 function shout(string) { 
 
     return string.toUpperCase(); 
